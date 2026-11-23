@@ -1,0 +1,20 @@
+# Doc ? Médecin malgré lui
+
+> Jeu mobile Android en français (2026) : Martin, un mécanicien pris pour le nouveau médecin de Valcombe, un village de montagne, soigne les habitants avec l'aide secrète d'Odile, la pharmacienne. Jeu de médecin et d'enquête, sans publicité, sans achat intégré, sans collecte de données, jouable hors ligne. Un seul achat sur Google Play (0,99 €). Un jeu, pas un outil médical.
+
+## Le jeu
+
+- Genre : jeu de médecin, de diagnostic et d'enquête, avec une histoire drôle et tendre.
+- Boucle de jeu : choisir le patient de la salle d'attente, l'interroger, l'examiner du bout du doigt (thermomètre, stéthoscope, lampe dans la gorge, palpation), poser le diagnostic, choisir le traitement ou appeler le 15 en cas d'urgence.
+- Contenu : histoire en quatre chapitres, carnet de 35 maladies de tous les jours (angine, grippe, entorse, cystite…), bilan à trois étoiles avec la « route idéale » du diagnostic, maison de santé avec une infirmière dès le chapitre 2, matériel à acheter chez Odile, objets de collection chez Louis le brocanteur.
+- Trois niveaux de difficulté : Débutant (avec indices), Intermédiaire, Expert.
+- Parties courtes : une journée au cabinet dure de 5 à 10 minutes. Public : 13 ans et plus.
+- Plateforme : Android (téléphones et tablettes). Langue : français. Pas de version iPhone pour l'instant.
+- Fait par un développeur indépendant.
+
+## Liens
+
+- [Page du jeu et FAQ](https://c3potes-konto.github.io/doc-medecin-malgre-lui/)
+- [Google Play](https://play.google.com/store/apps/details?id=fr.valcombe.doc)
+- [Politique de confidentialité](https://c3potes-konto.github.io/doc-medecin-malgre-lui/confidentialite.html)
+- Contact : wtffilosophie@gmail.com
